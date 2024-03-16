@@ -94,8 +94,8 @@ export const RESUME_DATA = {
       description: "A platform to build and grow your online interior business.",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "https://github.com/littlebadboy9x",
+        href: "https://github.com/littlebadboy9x",
       },
     },
   ],
