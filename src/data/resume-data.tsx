@@ -61,10 +61,10 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Workshop of the school project.",
+      company: "Workshop of the school project",
       link: "ap.poly.edu.vn",
       badges: ["onsite"],
-      title: "Senior Full Stack Developer",
+      title: "Back-End Developer",
       logo: ParabolLogo,
       start: "2022",
       end: "2023",
