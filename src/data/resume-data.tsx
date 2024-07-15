@@ -31,8 +31,9 @@ export const RESUME_DATA = {
   avatarUrl: "https://i.imgur.com/cBxU1V5.jpeg",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "hoivui7a@gmail.com",
+    email: "vuongtv1267.dev@gmail.com",
     tel: "+84386602039",
+    github: "https://github.com/littlebadboy9x",
     social: [
       {
         name: "GitHub",
