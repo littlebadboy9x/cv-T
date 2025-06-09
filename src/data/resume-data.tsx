@@ -78,4 +78,40 @@ export const RESUME_DATA = {
     "Quản lý kho hàng",
     "Giao tiếp và tư vấn khách hàng",
   ],
+  projects: [
+    {
+      title: "Web Store",
+      techStack: [
+        "Spring Boot",
+        "RESTful API",
+        "Spring JPA",
+        "Themeleaf",
+        "JavaScript",
+        "SQlServer",
+        "Spring Security",
+      ],
+      description: "A platform to build and grow your online interior business.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "https://github.com/littlebadboy9x/WebStoreX",
+        href: "https://github.com/littlebadboy9x/WebStoreX",
+      },
+    },
+    {
+      title: "BeeShops Application",
+      techStack: [
+        "Java Swing",
+        "Java Mail",
+        "Hibernate",
+        "Themeleaf",
+        "SQlServer",
+      ],
+      description: "The software is created for efficient management and sales at the counter.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "https://github.com/littlebadboy9x/BeeShops_GiayN4",
+        href: "https://github.com/littlebadboy9x/BeeShops_GiayN4",
+      },
+    },
+  ],
 } as const;
